@@ -1,0 +1,10 @@
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\bin\Debug\OnePad.exe.config
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\bin\Debug\OnePad.exe
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\bin\Debug\OnePad.pdb
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Debug\OnePad.csprojResolveAssemblyReference.cache
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Debug\OnePad.Form1.resources
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Debug\OnePad.NewKey.resources
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Debug\OnePad.Properties.Resources.resources
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Debug\OnePad.csproj.GenerateResource.Cache
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Debug\OnePad.exe
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Debug\OnePad.pdb

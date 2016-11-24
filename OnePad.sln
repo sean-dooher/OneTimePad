@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnePad", "OnePad\OnePad.csproj", "{94753C99-BCB7-4146-9DD5-5E28FDC1BE23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2793D37A-1255-4E0B-B2A1-AEE6D1B2FB7C}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94753C99-BCB7-4146-9DD5-5E28FDC1BE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94753C99-BCB7-4146-9DD5-5E28FDC1BE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94753C99-BCB7-4146-9DD5-5E28FDC1BE23}.Debug|x64.ActiveCfg = Debug|x64
+		{94753C99-BCB7-4146-9DD5-5E28FDC1BE23}.Debug|x64.Build.0 = Debug|x64
+		{94753C99-BCB7-4146-9DD5-5E28FDC1BE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94753C99-BCB7-4146-9DD5-5E28FDC1BE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94753C99-BCB7-4146-9DD5-5E28FDC1BE23}.Release|x64.ActiveCfg = Release|x64
+		{94753C99-BCB7-4146-9DD5-5E28FDC1BE23}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

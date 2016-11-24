@@ -1,0 +1,9 @@
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\bin\Release\OnePad.exe.config
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\bin\Release\OnePad.exe
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\bin\Release\OnePad.pdb
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Release\OnePad.Form1.resources
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Release\OnePad.NewKey.resources
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Release\OnePad.Properties.Resources.resources
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Release\OnePad.csproj.GenerateResource.Cache
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Release\OnePad.exe
+f:\users\sean\documents\visual studio 2012\Projects\OnePad\OnePad\obj\Release\OnePad.pdb
